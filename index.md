@@ -1,3 +1,3 @@
-# Welcome to my blog
+# GitHub Pages
 
-I'm glad you are here. I plan to talk about ...
+I'll be posting annotations for the GitHub Pages course.
